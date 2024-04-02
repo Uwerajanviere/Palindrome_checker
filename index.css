@@ -1,0 +1,69 @@
+body{
+    background-color:#0a0a23;
+    color:white;
+  }
+  .container{
+    position:absolute;
+    left:20%;
+    top:5%;
+    right:10%;
+    padding:35px;
+  }
+  .header{
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size:50px;
+  }
+  .checking{
+    background-color:white;
+    color:black;
+    width:400px;
+    height:200px;
+    border-radius:20px;
+      box-shadow: 1px 7px 5px #000080;
+  
+  }
+  #input{
+    padding-top:5px; 
+  font-size:20px;
+  text-align:center;
+  
+  }
+  #text-input{
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom:2px solid blue;
+    padding:8px;
+    outline:none;
+  }
+  #check-btn{
+    margin:10px;
+    padding:10px;
+    border-radius:10px;
+    background-color:	#4169E1;
+    width:6rem;
+    border:0;
+  }
+  .explanation{
+    background-color:green;
+  width:400px;
+    height:120px;
+    font-size:23px;
+    border-radius:10px;
+    font-family:Arial Narrow, sans-serif;
+  
+  }
+  
+  #result{
+    width:350px;
+    height:50px;
+    margin-left:25px
+    
+  }
+  #result{
+    font-size:30px;
+    text-align:center;
+    font-family:Arial Narrow, sans-serif;
+    padding:20px;
+    
+  }
